@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I am Ramyashree ,a 👨‍💻 MERN stack developer, I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨
+I am Ramyashree ,a 👨‍💻 MERN stack developer, and a Lifelong learner. I create Projects that helps to solve Problems and make the world a better Place. My dream is to make Projects that works in the cross domain of Science and Softwares.
 
 ### Connect me on
 
