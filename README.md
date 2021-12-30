@@ -29,7 +29,7 @@ I am Ramyashree ,a 👨‍💻 MERN stack developer, and a Lifelong learner. I c
 
 
 
-* 🌱 I’m currently learning Full Stack web development
+* 🌱 I’m currently working in theecode technology.
 * 👯 I’m looking to collaborate on any projects
 * 📫 How to reach me : ramyashreehc21@gmail.com
 
